@@ -11,7 +11,7 @@ For terminal 1-2-3-4 run:
 > catkin build  (one terminal is fine)
 > source ~/catkin_ws/devel/setup.bash
 
-##Running instructions
+## Running instructions
 
 For terminal 1:
 > roslaunch tiago_iaslab_simulation start_simulation.launch world_name:=robotics_library
@@ -27,5 +27,5 @@ For terminal 3:
 For terminal 4:
 > rosrun Assignment_1_group_12 client <x> <y> <yaw_angle>
 
-##Members
+## Members
 The project was developed with the collaboration of Stefano Trenti and Matteo Viallani
