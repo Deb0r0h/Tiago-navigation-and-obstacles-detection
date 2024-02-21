@@ -1,0 +1,8 @@
+# Goal
+int32[] point
+---
+# Result
+float32[] obstalces
+---
+# Feedback
+string current_state
