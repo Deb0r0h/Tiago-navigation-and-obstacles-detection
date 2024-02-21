@@ -30,4 +30,4 @@ For terminal 4:
 > rosrun Assignment_1_group_12 client <x> <y> <yaw_angle>
 
 ## Members
-The project was developed with the collaboration of Stefano Trenti and Matteo Viallani
+The project was developed with the collaboration of Stefano Trenti and Matteo Villani
