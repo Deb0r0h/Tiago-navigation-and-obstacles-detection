@@ -1,5 +1,6 @@
 
 ## Compiling istructions
+Clone the environment and launch file from this [repository](https://github.com/PieroSimonet/tiago_iaslab_simulation.git)
 You will need 4 terminal sourced in ~/catkin_ws
 
 For terminal 1-2-3-4 run:
