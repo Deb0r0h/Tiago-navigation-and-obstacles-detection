@@ -1,4 +1,11 @@
 # Tiago navigation and obstacle detection
+
+The goal of the project is to get the robot Tiago from the initial point Starting Pose to point Pose B by navigating through the environment that includes two rooms, corridor and obstacles. Once Tiago reaches the Pose B, it must recognize the obstacles, cylindrical in shape, from his surroundings and indicate how many there are and their location in the room.
+Tiago can reach Pose B in three different ways:
+ - The first involves using the motion control low that we developed to reach Pose B directly, thus never using the Navigation stack (1). [EXTRA-POINT]
+- The second involves using a motion control low that we developed to cross the corridor and then using the Navigation stack to reach Pose B (2). [EXTRA-POINT]
+- The third involves using the control low that is already there by taking advantage of the Navigation stack (3)
+
 <div align="center">
   <img src="media/client.png" alt="Client terminal" title="Client terminal" />
   <p><em>Client terminal</em></p>
