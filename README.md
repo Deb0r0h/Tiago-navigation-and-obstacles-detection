@@ -1,4 +1,13 @@
+# Tiago navigation and obstacle detection
+<div align="center">
+  <img src="media/client.png" alt="Client terminal" title="Client terminal" />
+  <p><em>Client terminal</em></p>
+</div>
 
+<div align="center">
+  <img src="media/result.png" alt="Results terminal + Simulation (Gazeboo) + LaserData (Rviz)" title="Results terminal + Simulation (Gazeboo) + LaserData (Rviz)" />
+  <p><em>Results terminal + Simulation (Gazeboo) + LaserData (Rviz)</em></p>
+</div>
 ## Compiling istructions
 Clone the environment and launch file from this [repository](https://github.com/PieroSimonet/tiago_iaslab_simulation.git)
 
