@@ -15,6 +15,7 @@ Tiago can reach Pose B in three different ways:
   <img src="media/result.png" alt="Results terminal + Simulation (Gazeboo) + LaserData (Rviz)" title="Results terminal + Simulation (Gazeboo) + LaserData (Rviz)" />
   <p><em>Results terminal + Simulation (Gazeboo) + LaserData (Rviz)</em></p>
 </div>
+
 ## Compiling istructions
 Clone the environment and launch file from this [repository](https://github.com/PieroSimonet/tiago_iaslab_simulation.git)
 
